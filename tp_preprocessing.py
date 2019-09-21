@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Authors: Eric@FLAGDream <eric.d@flagdream.com>
+
 import numpy as np
 import sys
 from datetime import datetime
